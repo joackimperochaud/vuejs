@@ -10,7 +10,7 @@
       </div>
     </nav>
     <!-----formulaire----->
-    <form @submit="checkForm" method="post">
+    <form @submit="checkForm" method="post" >
     <div class="form-row">
       <div class="form-group col-md-6">
         <label for="activite">Titre de l'activite</label>
